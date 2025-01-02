@@ -25,7 +25,7 @@ img2pdf
 instaloader
 lexica-api
 motor==3.4.0
-pymongo==4.8.0
+pymongo==4.10.1
 MukeshAPI
 numpy
 openai==0.28.0
