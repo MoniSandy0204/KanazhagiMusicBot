@@ -48,7 +48,7 @@ pyttsx3
 pytz
 pytube
 py-tgcalls==0.9.7
-ntgcalls==1.2.0
+ntgcalls==1.2.3
 qrcode
 requests
 SafoneAPI
