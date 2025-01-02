@@ -28,7 +28,7 @@ motor==3.4.0
 pymongo==4.8.0
 MukeshAPI
 numpy
-openai==0.28.0
+openai==1.58.1
 opencv-python
 pillow==10.3.0
 psutil
